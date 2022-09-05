@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 13)
+    (start_pass_no 14)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -57,10 +57,10 @@
     "unconnected-(J1-Pad4)" "Net-(J2-Pad2)" "ESP-AO" "ESP-AI" "Net-(J4-Pad1)" "Net-(J4-Pad2)" "ESP-TX" "ESP-RX"
     "Net-(J6-Pad1)" "Net-(JP1-Pad1)" "Net-(JP2-Pad3)" "Net-(Q1-Pad1)" "Net-(Q2-Pad1)" RTS "EN_ESP32" "Net-(Q3-Pad1)"
     DTR "IO0_ESP32" "unconnected-(U2-Pad9)" "unconnected-(U2-Pad10)" "unconnected-(U2-Pad11)" "unconnected-(U2-Pad12)" "unconnected-(U2-Pad15)" "unconnected-(U3-Pad6)"
-    "unconnected-(U3-Pad7)" "ESP-DIO" "UART-TX" "unconnected-(U3-Pad10)" "UART-RX" "Lora_DIO0" "Lora_RST" "Lora_DIO1"
-    "Net-(J3-Pad2)" "JTAG_RX" "unconnected-(U3-Pad19)" "unconnected-(U3-Pad20)" "unconnected-(U3-Pad21)" "unconnected-(U3-Pad22)" "Lora_SCK" "JTAG_TX"
-    "unconnected-(U3-Pad26)" "unconnected-(U3-Pad29)" "unconnected-(U3-Pad30)" "unconnected-(U3-Pad31)" "unconnected-(U3-Pad32)" "unconnected-(U3-Pad37)" "unconnected-(U4-Pad7)" "unconnected-(U4-Pad11)"
-    "unconnected-(U4-Pad12)" "unconnected-(U4-Pad16)" "Lora_MISO" "Lora_MOSI" "Lora_NSS" "ESP-SDA"
+    "unconnected-(U3-Pad7)" "ESP-DIO" "UART-TX" "UART-RX" "Lora_DIO0" "Lora_RST" "Lora_DIO1" "Net-(J3-Pad2)"
+    "JTAG_RX" "unconnected-(U3-Pad19)" "unconnected-(U3-Pad20)" "unconnected-(U3-Pad21)" "unconnected-(U3-Pad22)" "Lora_SCK" "JTAG_TX" "unconnected-(U3-Pad26)"
+    "unconnected-(U3-Pad32)" "unconnected-(U4-Pad7)" "unconnected-(U4-Pad11)" "unconnected-(U4-Pad12)" "unconnected-(U4-Pad16)" "Lora_MISO" "Lora_MOSI" "Lora_NSS"
+    "ESP-SDA" "Net-(J3-Pad1)" "ESP-SCL" "JTAG_TMS" "JTAG_TCK" "JTAG_TDO" "JTAG_TDI"
     (clearance_class default)
     (via_rule default)
     (rule
