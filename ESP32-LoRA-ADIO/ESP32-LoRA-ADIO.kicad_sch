@@ -1720,6 +1720,7 @@
     )
   )
 
+
   (junction (at 86.36 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 0ae8a763-7b31-4f96-a800-b722d7966467)
   )
@@ -1770,6 +1771,8 @@
   (no_connect (at 162.56 73.66) (uuid be227e6b-84cf-412f-bddc-9efe4031ea97))
   (no_connect (at 162.56 76.2) (uuid be227e6b-84cf-412f-bddc-9efe4031ea98))
   (no_connect (at 162.56 66.04) (uuid be227e6b-84cf-412f-bddc-9efe4031ea99))
+  (no_connect (at 193.04 88.9) (uuid c509b93c-3838-4e07-88db-8de3228945b1))
+  (no_connect (at 193.04 91.44) (uuid c509b93c-3838-4e07-88db-8de3228945b1))
   (no_connect (at 264.16 36.83) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2ae))
   (no_connect (at 264.16 39.37) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2af))
   (no_connect (at 264.16 41.91) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2b0))
