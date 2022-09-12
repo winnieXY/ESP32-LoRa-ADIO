@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "RF")(type "KiCad")(uri "D:/Tmp/ESP32-LoRa-ADIO/RF/RF.kicad_sym")(options "")(descr ""))
+  (lib (name "RF")(type "KiCad")(uri "D:/Git/ESP32-LoRa-ADIO/RF/RF.kicad_sym")(options "")(descr ""))
+  (lib (name "USB3140-30-0230-1-C_REVE1")(type "KiCad")(uri "D:/Git/ESP32-LoRa-ADIO/USB3140-30-0230-1-C_REVE1/USB3140-30-0230-1-C_REVE1.kicad_sym")(options "")(descr ""))
 )

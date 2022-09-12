@@ -1772,7 +1772,7 @@
   (no_connect (at 162.56 76.2) (uuid be227e6b-84cf-412f-bddc-9efe4031ea98))
   (no_connect (at 162.56 66.04) (uuid be227e6b-84cf-412f-bddc-9efe4031ea99))
   (no_connect (at 193.04 88.9) (uuid c509b93c-3838-4e07-88db-8de3228945b1))
-  (no_connect (at 193.04 91.44) (uuid c509b93c-3838-4e07-88db-8de3228945b1))
+  (no_connect (at 193.04 91.44) (uuid c509b93c-3838-4e07-88db-8de3228945b2))
   (no_connect (at 264.16 36.83) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2ae))
   (no_connect (at 264.16 39.37) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2af))
   (no_connect (at 264.16 41.91) (uuid c905c30b-6fba-4ae1-a6ef-4d6146ead2b0))
@@ -18169,7 +18169,7 @@
     (uuid 6a33cda9-f8ec-49d5-99d6-fd9061f65ca9)
     (property "Reference" "J1" (id 0) (at 21.59 44.45 0))
     (property "Value" "USB_B_Micro" (id 1) (at 21.59 46.99 0))
-    (property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001" (id 2) (at 25.4 58.42 0)
+    (property "Footprint" "USB3140-30-0230-1-C_REVE1:GCT_USB3140-30-0230-1-C_REVE1" (id 2) (at 25.4 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 25.4 58.42 0)
@@ -18983,7 +18983,7 @@
       (reference "D1") (unit 1) (value "B5817WS-TP") (footprint "Diode_SMD:D_SOD-323_HandSoldering")
     )
     (path "/6a33cda9-f8ec-49d5-99d6-fd9061f65ca9"
-      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_Molex-105017-0001")
+      (reference "J1") (unit 1) (value "USB_B_Micro") (footprint "USB3140-30-0230-1-C_REVE1:GCT_USB3140-30-0230-1-C_REVE1")
     )
     (path "/e098da95-a45b-4e22-a9bd-4cfc0a054c71"
       (reference "J2") (unit 1) (value "External Power") (footprint "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical")
